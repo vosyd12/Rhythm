@@ -1,0 +1,56 @@
+# Unity-generated data and local state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE-generated files
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.opendb
+*.VC.db
+
+# Local automation configuration and credentials
+/.codex/
+/.agents/
+/.aws/
+.env
+.env.*
+!.env.example
+*.pem
+*.pfx
+*.p12
+
+# Raw local verification traces and machine-specific inventories
+/검증결과/*.jsonl
+/검증결과/*FileIntegrity.json
+/검증결과/FileIntegrity.json
+
+# Local archive inventories are not portfolio deliverables
+/참고자료/LegacyArchiveReadme.md
+/참고자료/manifest.json
+/참고자료/external-guid-references.json
+/참고자료/source-git-status.txt
+/참고자료/Verify-Archive.ps1
+/ProjectSettings/McpUnitySettings.json
+
+# Test music is kept locally until redistribution rights are confirmed
+/Assets/Audio/Test/*
+!/Assets/Audio/Test/.gitkeep
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

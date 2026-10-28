@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79ddb8d9b280b874090bcc98e68305b7, type: 3}
+  m_Name: TowerDefinition
+  m_EditorClassIdentifier: Assembly-CSharp::CampBuildingDefinition
+  kind: 1
+  sitePrefab: {fileID: 2878821404252239236, guid: bc525efdd85739942bd72c143a05a39f, type: 3}
+  footprintSize: {x: 1, y: 1}
+  woodCost: 10
+  totalWork: 6
+  workPerStep: 2

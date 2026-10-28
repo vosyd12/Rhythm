@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "companionLimit": 5,
+  "startingWorkers": 2,
+  "populationInitial": 10,
+  "advanceWood": 0.5,
+  "advanceGold": 0.5,
+  "legacyGold": 0.3,
+  "buildingRefund": 0.5,
+  "stageEnemyMultipliers": [1.0, 1.2, 1.4, 1.6]
+}

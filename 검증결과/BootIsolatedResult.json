@@ -1,0 +1,10 @@
+﻿{
+    "status":  "blocked_by_environment",
+    "project":  "Temp/실행검증/독립검증",
+    "scene":  "Boot",
+    "runtimeStarted":  false,
+    "uiRuntimeVerified":  false,
+    "reason":  "Package Manager IPC failure on the first launch; license-client IPC/entitlement failure on the cached launch.",
+    "stoppedOwnedProcess":  52624,
+    "utc":  "2026-10-28T12:29:37.2486561Z"
+}
